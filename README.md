@@ -5,4 +5,7 @@ Basic GUI implementation using tkinter
 3. communication with the database like inserting the records and retreiving the records from the mysql
 # main dash baoard view
 ![screenshot 26](https://user-images.githubusercontent.com/24164028/43304115-6388b566-9190-11e8-8342-682c7a4322b1.png)
+# inserting the data  while clicking on the data enter widget
+![screenshot 27](https://user-images.githubusercontent.com/24164028/43304317-3ea93620-9191-11e8-8625-57f5f7e08b89.png)
+
 
